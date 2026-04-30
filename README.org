@@ -4,6 +4,6 @@ A framework for running Battlesnake endpoints via Huchentoot, including utilitie
 
 |---------+------------------------------------------------------------|
 | source  | git:https://github.com/ispringle/cl-battlesnake.git       |
-| commit  | 0000000                                                    |
+| commit  | 4d0973a                                                    |
 | systems | cl-battlesnake cl-battlesnake/examples                    |
 |---------+------------------------------------------------------------|
